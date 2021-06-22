@@ -1,0 +1,9 @@
+{{ with .Site.Params.actions -}}
+<section class="actions">
+  {{- range $action, $id := . -}}
+  {{- if (eq $action "cv") }}
+  <a class="action" href=" https://google.com/{{ $id }} ">Review My CV</a>
+  {{- end }}
+  {{ end }}
+</section>
+{{- end }}

@@ -1,0 +1,66 @@
+languageCode = "en-us"
+theme = "awesome-identity"
+baseURL = "https://erdeminanc.com"
+title = "Erdem Inanc | Software Developer"
+
+
+## Profile Configurations
+[params.profile]
+  portrait = "/images/erdem_inanc.jpg"
+  firstname = "Erdem"
+  lastname = "Inanc"
+  title = "Software Developer"
+  bio = """
+
+Hi there,
+
+I have always liked making things, this became a professional career eventually. I like turning ideas into software products. I started this journey by teaching myself programming with C and Python. Then Java.
+
+After studying in Istanbul Technical University, I received a master's degree from Sabanci University in Information Technologies.
+
+My techstack includes but not limited to creating backend using Spring/Spring Boot(Java), creating frontend using Vue, React(Javascript) and setting up microservice architecture using Kubernetes, Docker and Microsoft Azure services. I am always open to learning innovative technologies.
+
+I am currently working as **Sr. Software Developer** in **Anadolu Sigorta**.
+
+"""
+  techstack = """
+  **Programming - Strong:** Java, Javascript
+
+  **Programming - Familiar:** Python, Kotlin
+  
+  **Backend Development:** Spring, Spring Boot, Flask, REST
+
+  **Frontend Development:** Vuejs, VueX, HTML, CSS/SCSS
+
+  **DevOPS**: Docker, Kubernetes, Azure, Microservices, Spring Cloud
+
+  **Database**: MySQL, MongoDB
+  """
+
+## Footer Configurations
+[params.footer]
+  copyright = "© 2021 Erdem Inanc. [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)."
+  poweredBy = false
+
+
+## Contacts Configurations
+[params.expertise]
+  email = "erdeminanc@gmail.com"
+  github = "erdeminanc"
+  twitter = "erdeminanc"
+  linkedin = "erdeminanc"
+  medium = "erdeminanc"
+  
+## Contacts Configurations
+[params.contacts]
+  email = "erdeminanc@gmail.com"
+  github = "erdeminanc"
+  twitter = "erdeminanc"
+  linkedin = "erdeminanc"
+  medium = "erdeminanc"
+  
+
+
+## Actions Configurations
+[params.actions]
+  cv = "CV Address"

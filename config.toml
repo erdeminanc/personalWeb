@@ -62,5 +62,5 @@ I am currently working as **Sr. Software Developer** in **Anadolu Sigorta**.
 
 
 ## Actions Configurations
-[params.actions]
-  cv = "CV Address"
+##[params.actions]
+##  cv = "#"
